@@ -27,7 +27,7 @@ The input file is <a href="https://github.com/NandanNayak/Logistic-Regression-to
 ###Program Output
 
 The program outputs the model parameters calculated from both the Gradiant Descent equation.
-<a href="https://github.com/NandanNayak/Logistic-Regression-to-predict-a-student-s-admission-into-an-University/blob/master/Output.png"></a>
+<img src="https://github.com/NandanNayak/Logistic-Regression-to-predict-a-student-s-admission-into-an-University/blob/master/Output.png" />
 
 ###Visualization and Conclusion
 
