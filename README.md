@@ -31,7 +31,7 @@ The program outputs the model parameters calculated from both the Gradiant Desce
 
 ###Visualization and Conclusion
 
-<a href="https://github.com/NandanNayak/Logistic-Regression-to-predict-a-student-s-admission-into-an-University/blob/master/DecisionBoundary.png"></a>
+<img src="https://github.com/NandanNayak/Logistic-Regression-to-predict-a-student-s-admission-into-an-University/blob/master/DecisionBoundary.png" />
 In the first figure, the green dots represent the students who have been admitted and the red dots represent the students who have been rejected by the University. The blue line is the decision boundary which the logistic algorithm has learnt from the dataset. Inorder to predict the admission of future students, they are plotted on the graph and those that only lie on the right side of the decision boundary get admitted.
 
 The second figure shows the variation of the cost function with the no. of iterations of the Gradient Descent.
